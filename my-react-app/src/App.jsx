@@ -6,7 +6,7 @@ import {
   updateDoc, deleteDoc
 } from "firebase/firestore";
 
-// ─── FIREBASE CONFIG ── Replace with your own Firebase project config ───────
+// ─── FIREBASE CONFIG── Replace with your own Firebase project config ───────
 // Get this from Firebase Console → Project Settings → Your apps → Web app
 
 // ────────────────────────────────────────────────────────────────────────────
